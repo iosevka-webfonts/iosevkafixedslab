@@ -1,4 +1,4 @@
-# Iosevkafixedslab WebFont 34.9.0
+# Iosevkafixedslab WebFont 34.9.1
 
 ## How to use
 
